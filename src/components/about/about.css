@@ -1,0 +1,21 @@
+#about{
+margin-top: 40px;
+font-size: 20px;
+}
+#about h1{
+  font-weight: 100;
+}
+
+#about img{
+  width: 150px;
+  border-radius: 80px;
+}
+
+
+.about-text{
+  font-size: larger;
+color: darkseagreen;
+
+  
+  line-height: 2;
+}

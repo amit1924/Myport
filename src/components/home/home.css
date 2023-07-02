@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+    text-align: center;
+    padding: 20px;
+    color: rgb(255, 219, 16);
+    margin-top: 150px;
+}
+  
+  .home h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .home p {
+    font-size: 20px;
+    line-height: 3;
+  }
+  
